@@ -1,0 +1,14 @@
+{
+  "name": "lewis-reviews-api",
+  "version": "0.1.0",
+  "description": "The API for interfacing with LewisReviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Curtis Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
